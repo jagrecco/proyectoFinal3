@@ -1,0 +1,34 @@
+{
+  "name": "proyecto-final",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.5.4",
+    "multer": "^1.4.5-lts.1",
+    "winston": "^3.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jagrecco/proyectoFinal.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jagrecco/proyectoFinal/issues"
+  },
+  "homepage": "https://github.com/jagrecco/proyectoFinal#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
