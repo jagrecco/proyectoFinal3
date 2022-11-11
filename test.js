@@ -1,5 +1,5 @@
 import ProductosDao from "./daos/archivoProductosDao.js"
-/* const ProductosDao = require ("./daos/mongoProductosDao.js") */
+/* const ProductosDao = require ("./daos/mongoProductosDao.js") */ //cambio para probar git
 /* import prodSchema from "./models/productoSchema.js"
 /* const prodSchema =  require ("./models/productoSchema.js") */
 
